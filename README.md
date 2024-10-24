@@ -7,7 +7,7 @@
 
 
   <div id="badges" align="center">
-<img decoding="async" src="https://komarev.com/ghpvc/?username=anyelaml&color=brightgreen" alt=""/>
+<img decoding="async" src="https://komarev.com/ghpvc/?username=anyelaml&color=green" alt=""/>
 </div>
 
 <h1>
