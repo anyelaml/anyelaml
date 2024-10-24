@@ -3,9 +3,9 @@
   <img decoding="async" src="https://github.com/anyelaml/banner/blob/master/Banner%20linkedin.jpg" 
     width="800"/>
 </div>
-<div id="badges" align="center">
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyela-m%C3%A1laga-lazarte-4a3904127/)
-</div>
+
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anyelaml.anyelaml&color=00cf00" alt=""/>
 <!--
 <h1>
