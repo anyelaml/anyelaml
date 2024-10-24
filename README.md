@@ -18,7 +18,7 @@
 <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Apasionada de la tecnología, disfrutando de una transición laboral a QA Engineer y perfeccionando mi habilidad en detectar bugs en webs y apps móviles <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+La tecnología me genera gran interés, ahora estoy disfrutando de una transición laboral a QA Engineer y perfeccionando mi habilidad para detectar bugs en webs y apps móviles. Me encanta crear y generar experiencias positivas en los usuarios. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Herramientas :
 Postman | Selenium | Jira | Figma | Andorid Studio | Python | Microsoft Azure | DevTools 
