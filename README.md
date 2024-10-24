@@ -8,6 +8,8 @@
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anyelaml.anyelaml&color=00cf00" alt=""/>
+</div>
+
 <!--
 <h1>
   Hola soy Anyela. ¡Encantada de conocerte!
