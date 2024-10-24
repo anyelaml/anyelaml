@@ -7,7 +7,7 @@
 
 
   <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anyelaml.anyelaml&color=00cf00" alt=""/>
+<img decoding="async" src="![](https://komarev.com/ghpvc/?username=anyelaml&color=green)" alt=""/>
 </div>
 
 <!--
