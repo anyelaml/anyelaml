@@ -1,6 +1,16 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://www.canva.com/design/DAGRpQWeO8w/aUjsU09-nGdbs2b2ZA7W8Q/view" width="800"/>
+</div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyela-m%C3%A1laga-lazarte-4a3904127/)
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anyelaml.anyelaml&color=00cf00" alt=""/>
 <!--
+<h1>
+  Hola soy Anyela. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 **anyelaml/anyelaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
