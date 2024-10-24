@@ -10,7 +10,6 @@
 <img decoding="async" src="https://komarev.com/ghpvc/?username=anyelaml&color=brightgreen" alt=""/>
 </div>
 
-<!--
 <h1>
   Hola soy Anyela. ¡Encantada de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
