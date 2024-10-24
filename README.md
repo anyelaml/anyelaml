@@ -31,7 +31,7 @@ Postman | Selenium | Jira | Figma | Andorid Studio | Python | Microsoft Azure | 
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Anyela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anyelaml/)
   
-**anyelaml/anyelaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **anyelaml/anyelaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
