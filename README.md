@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/anyelaml/banner/blob/master/Banner%20linkedin.jpg" 
+  <img decoding="async" src="https://github.com/anyelaml/banner/blob/master/banner%20nuevo.jpg" 
     width="800"/>
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyela-m%C3%A1laga-lazarte-4a3904127/)
