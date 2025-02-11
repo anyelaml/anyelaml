@@ -21,7 +21,7 @@
 La tecnología me genera gran interés, ahora estoy disfrutando de una transición laboral a QA Engineer y perfeccionando mi habilidad para detectar bugs en webs y apps móviles. Me encanta crear y generar experiencias positivas en los usuarios. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Herramientas :
-Postman | Selenium | Jira | Figma | Android Studio | Python | Microsoft Azure | DevTools | Pycharm
+Postman | Selenium | Jira | Figma | Android Studio | Python | DevTools | Pycharm
 
 * :telescope: Actualmente estoy trabajando en proyectos de testing manual independientes y me encantaría tener nuevos retos en proyectos de diferentes sectores tanto manuales como automatizados :muscle:
 
